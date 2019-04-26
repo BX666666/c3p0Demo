@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/zdb/stu/daoimpl/stuTest.java=UTF-8
+encoding//src/com/zdb/stu/domain/PageBean.java=UTF-8
+encoding//src/com/zdb/stu/tools/BaseServlet.java=UTF-8
+encoding//src/com/zdb/stu/tools/JdbcUtils.java=UTF-8
+encoding//src/com/zdb/stu/tools/TxQueryRunner.java=UTF-8
